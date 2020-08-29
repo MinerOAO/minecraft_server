@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2020-08-29 13:02:10 +0000",
       "minecraft:creeper": "2020-08-29 12:41:09 +0000"
     },
     "done": false
@@ -89,6 +90,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-08-29 12:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-08-29 11:49:42 +0000"
@@ -98,7 +105,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-08-29 11:48:58 +0000",
+      "minecraft:desert_hills": "2020-08-29 12:54:46 +0000",
+      "minecraft:desert": "2020-08-29 12:54:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-08-29 11:49:40 +0000",
+      "minecraft:savanna_plateau": "2020-08-29 13:11:13 +0000",
       "minecraft:beach": "2020-08-29 11:49:07 +0000",
       "minecraft:river": "2020-08-29 12:41:20 +0000",
       "minecraft:wooded_hills": "2020-08-29 12:01:35 +0000",
@@ -106,6 +116,12 @@
       "minecraft:plains": "2020-08-29 11:51:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-08-29 13:02:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2230
 }

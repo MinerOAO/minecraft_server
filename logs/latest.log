@@ -1,67 +1,65 @@
-[12:38:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:38:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:38:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:38:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:38:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:38:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[12:38:26] [Server thread/INFO]: Loading properties
-[12:38:26] [Server thread/INFO]: Default game type: SURVIVAL
-[12:38:26] [Server thread/INFO]: Generating keypair
-[12:38:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:38:26] [Server thread/INFO]: Using epoll channel type
-[12:38:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:38:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:38:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:38:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:38:26] [Server thread/INFO]: Preparing level "world"
-[12:38:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:39:02] [Server thread/INFO]: Loaded 6 recipes
-[12:39:02] [Server thread/INFO]: Loaded 825 advancements
-[12:39:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:09] [Server-Worker-1/INFO]: Preparing spawn area: 56%
-[12:39:10] [Server thread/INFO]: Preparing spawn area: 57%
-[12:39:10] [Server-Worker-1/INFO]: Preparing spawn area: 94%
-[12:39:11] [Server-Worker-1/INFO]: Preparing spawn area: 94%
-[12:39:11] [Server-Worker-1/INFO]: Preparing spawn area: 94%
-[12:39:12] [Server thread/INFO]: Preparing spawn area: 94%
-[12:39:12] [Server thread/INFO]: Preparing spawn area: 95%
-[12:39:13] [Server thread/INFO]: Preparing spawn area: 96%
-[12:39:13] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[12:39:14] [Server thread/INFO]: Preparing spawn area: 97%
-[12:39:14] [Server thread/INFO]: Time elapsed: 11368 ms
-[12:39:14] [Server thread/INFO]: Done (47.576s)! For help, type "help"
-[12:40:32] [Server thread/INFO]: MinerOAO[/222.210.192.8:44528] logged in with entity id 40 at (1066.004630686168, 64.0, 1023.7411688382249)
-[12:40:32] [Server thread/INFO]: MinerOAO joined the game
-[12:40:42] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[12:40:42] [Server thread/INFO]: MinerOAO left the game
-[12:40:45] [Server thread/INFO]: MinerOAO[/222.210.192.8:59574] logged in with entity id 238 at (1095.6933555013009, 66.0, 1013.8105678156746)
-[12:40:45] [Server thread/INFO]: MinerOAO joined the game
-[12:41:09] [Server thread/INFO]: MinerOAO has made the advancement [Monster Hunter]
-[12:42:27] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[12:42:27] [Server thread/INFO]: MinerOAO left the game
-[12:42:34] [Server thread/INFO]: Stopping the server
-[12:42:34] [Server thread/INFO]: Stopping server
-[12:42:34] [Server thread/INFO]: Saving players
-[12:42:34] [Server thread/INFO]: Saving worlds
-[12:42:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:42:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:42:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:42:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:04:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:04:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:04:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:04:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:04:11] [Server thread/INFO]: Loading properties
+[13:04:11] [Server thread/INFO]: Default game type: SURVIVAL
+[13:04:11] [Server thread/INFO]: Generating keypair
+[13:04:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:04:11] [Server thread/INFO]: Using epoll channel type
+[13:04:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:04:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:04:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:04:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:04:11] [Server thread/INFO]: Preparing level "world"
+[13:04:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:04:48] [Server thread/INFO]: Loaded 6 recipes
+[13:04:49] [Server thread/INFO]: Loaded 825 advancements
+[13:04:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:04:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:51] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:52] [Server thread/INFO]: Preparing spawn area: 0%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:55] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[13:04:56] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[13:04:56] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[13:04:57] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[13:04:57] [Server thread/INFO]: Preparing spawn area: 52%
+[13:04:58] [Server-Worker-1/INFO]: Preparing spawn area: 54%
+[13:04:58] [Server-Worker-1/INFO]: Preparing spawn area: 55%
+[13:04:59] [Server-Worker-1/INFO]: Preparing spawn area: 56%
+[13:04:59] [Server-Worker-1/INFO]: Preparing spawn area: 65%
+[13:05:00] [Server-Worker-1/INFO]: Preparing spawn area: 75%
+[13:05:01] [Server thread/INFO]: Preparing spawn area: 87%
+[13:05:01] [Server thread/INFO]: Preparing spawn area: 87%
+[13:05:01] [Server thread/INFO]: Time elapsed: 12049 ms
+[13:05:01] [Server thread/INFO]: Done (49.694s)! For help, type "help"
+[13:05:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@74010c8a[id=<null>,name=MinerOAO,properties={},legacy=false] (/222.210.192.8:50243) lost connection: Disconnected
+[13:05:10] [Server thread/INFO]: MinerOAO[/222.210.192.8:50723] logged in with entity id 40 at (684.0262472988345, 71.0, 1651.7350966480133)
+[13:05:10] [Server thread/INFO]: MinerOAO joined the game
+[13:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[13:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10774ms or 215 ticks behind
+[13:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9566ms or 191 ticks behind
+[13:06:11] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[13:06:11] [Server thread/INFO]: MinerOAO left the game
+[13:06:14] [Server thread/INFO]: MinerOAO[/222.210.192.8:50219] logged in with entity id 193 at (731.1823767056034, 72.0, 1627.7159057391716)
+[13:06:14] [Server thread/INFO]: MinerOAO joined the game
+[13:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
+[13:06:36] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[13:06:36] [Server thread/INFO]: MinerOAO left the game
+[13:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[13:09:15] [Server thread/INFO]: MinerOAO[/222.210.192.8:51637] logged in with entity id 205 at (739.3925960013088, 72.0, 1609.701542250695)
+[13:09:15] [Server thread/INFO]: MinerOAO joined the game
+[13:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+[13:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[13:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7022ms or 140 ticks behind
