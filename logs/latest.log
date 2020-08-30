@@ -128,3 +128,59 @@
 [16:53:40] [Server thread/INFO]: MinerOAO left the game
 [17:01:54] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
 [17:01:54] [Server thread/INFO]: LeoMe55i10 left the game
+[19:38:27] [Server thread/INFO]: MinerOAO[/222.210.192.8:51236] logged in with entity id 55793 at (95.57611318932612, 67.0, 29.24316757294881)
+[19:38:27] [Server thread/INFO]: MinerOAO joined the game
+[19:59:31] [Server thread/INFO]: Yuanyuan[/222.210.192.8:37455] logged in with entity id 57790 at (-46.5, 69.0, 9.5)
+[19:59:31] [Server thread/INFO]: Yuanyuan joined the game
+[19:59:45] [Server thread/INFO]: [MinerOAO: Teleported Yuanyuan to MinerOAO]
+[20:00:22] [Server thread/INFO]: Yuanyuan lost connection: Disconnected
+[20:00:22] [Server thread/INFO]: Yuanyuan left the game
+[20:01:16] [Server thread/INFO]: Yuanyuan[/222.210.192.8:55299] logged in with entity id 57992 at (94.67882660628618, 66.92159999847412, 32.60800283928202)
+[20:01:16] [Server thread/INFO]: Yuanyuan joined the game
+[20:01:36] [Server thread/INFO]: Yuanyuan has made the advancement [Suit Up]
+[20:03:07] [Server thread/INFO]: Yuanyuan lost connection: Disconnected
+[20:03:07] [Server thread/INFO]: Yuanyuan left the game
+[20:03:54] [Server thread/INFO]: Yuanyuan[/222.210.192.8:38976] logged in with entity id 58293 at (121.24726670648784, 72.0, 85.96631657152626)
+[20:03:54] [Server thread/INFO]: Yuanyuan joined the game
+[20:05:21] [Server thread/INFO]: Yuanyuan has made the advancement [Stone Age]
+[20:05:47] [Server thread/INFO]: Yuanyuan has made the advancement [Getting an Upgrade]
+[20:10:55] [Server thread/INFO]: Yuanyuan has made the advancement [Acquire Hardware]
+[20:11:08] [Server thread/INFO]: Yuanyuan has made the advancement [Isn't It Iron Pick]
+[20:29:46] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/62356, l='world', x=152.13, y=9.00, z=79.61]
+[20:40:12] [Server thread/INFO]: Yuanyuan has made the advancement [Monster Hunter]
+[20:48:47] [Server thread/INFO]: Yuanyuan lost connection: Disconnected
+[20:48:47] [Server thread/INFO]: Yuanyuan left the game
+[20:49:52] [Server thread/INFO]: Yuanyuan[/222.210.192.8:49294] logged in with entity id 65337 at (156.54872109292356, 68.0, 39.381180585457514)
+[20:49:52] [Server thread/INFO]: Yuanyuan joined the game
+[21:06:08] [Server thread/INFO]: Yuanyuan fell from a high place
+[21:07:39] [Server thread/WARN]: Yuanyuan was kicked for floating too long!
+[21:07:39] [Server thread/INFO]: Yuanyuan lost connection: Flying is not enabled on this server
+[21:07:39] [Server thread/INFO]: Yuanyuan left the game
+[21:07:50] [Server thread/INFO]: MinerOAO lost connection: Timed out
+[21:07:50] [Server thread/INFO]: MinerOAO left the game
+[21:07:58] [Server thread/INFO]: MinerOAO[/222.210.192.8:54895] logged in with entity id 67050 at (87.75819325540388, 67.0, 30.07024195763538)
+[21:07:58] [Server thread/INFO]: MinerOAO joined the game
+[21:08:21] [Server thread/INFO]: Yuanyuan[/222.210.192.8:54783] logged in with entity id 67102 at (102.40928539132076, 71.16610926093821, 46.389880323370875)
+[21:08:21] [Server thread/INFO]: Yuanyuan joined the game
+[21:16:34] [Server thread/INFO]: Yuanyuan has made the advancement [Sweet Dreams]
+[21:18:07] [Server thread/INFO]: Yuanyuan lost connection: Timed out
+[21:18:07] [Server thread/INFO]: Yuanyuan left the game
+[21:18:07] [Server thread/WARN]: handleDisconnection() called twice
+[21:18:14] [Server thread/INFO]: MinerOAO lost connection: Timed out
+[21:18:14] [Server thread/INFO]: MinerOAO left the game
+[21:18:21] [Server thread/INFO]: MinerOAO[/222.210.192.8:56376] logged in with entity id 68231 at (94.67526727609021, 59.0, 39.53330380272067)
+[21:18:21] [Server thread/INFO]: MinerOAO joined the game
+[21:18:57] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[21:18:57] [Server thread/INFO]: MinerOAO left the game
+[21:27:25] [Server thread/INFO]: Stopping server
+[21:27:25] [Server thread/INFO]: Saving players
+[21:27:25] [Server thread/INFO]: Saving worlds
+[21:27:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:27:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:27:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
