@@ -253,6 +253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-09-02 12:28:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-08-29 23:47:47 +0800"
@@ -772,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-09-02 12:36:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-08-29 23:03:13 +0800"
@@ -1011,7 +1023,9 @@
       "minecraft:cold_ocean": "2020-08-31 13:13:09 +0800",
       "minecraft:forest": "2020-08-31 13:03:40 +0800",
       "minecraft:mountains": "2020-08-31 15:34:40 +0800",
+      "minecraft:taiga": "2020-09-01 13:30:08 +0800",
       "minecraft:desert_hills": "2020-08-29 23:32:33 +0800",
+      "minecraft:taiga_hills": "2020-09-01 13:30:22 +0800",
       "minecraft:desert": "2020-08-29 23:32:34 +0800",
       "minecraft:birch_forest": "2020-08-30 13:27:49 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-08-30 13:33:39 +0800",
@@ -1083,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2020-09-01 21:08:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-08-29 23:24:52 +0800"
@@ -1098,6 +1118,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-08-29 23:11:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-09-01 12:51:28 +0800"
     },
     "done": true
   },
@@ -1164,6 +1190,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-08-30 13:59:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-09-02 12:15:04 +0800"
     },
     "done": true
   },
@@ -1705,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-09-01 12:49:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-08-29 23:01:49 +0800"
@@ -1879,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-09-02 12:31:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-08-31 13:08:12 +0800"
@@ -1921,6 +1965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-09-02 12:15:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2020-08-30 12:46:28 +0800"
@@ -1954,6 +2004,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-08-29 23:05:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-09-02 12:14:30 +0800"
     },
     "done": true
   },
@@ -2215,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-09-02 12:13:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-08-31 12:59:17 +0800"
@@ -2272,6 +2334,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-08-31 16:55:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-09-02 12:28:47 +0800"
     },
     "done": true
   },
@@ -2338,6 +2406,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-08-30 16:38:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-09-02 12:14:30 +0800"
     },
     "done": true
   },
