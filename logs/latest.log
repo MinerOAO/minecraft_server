@@ -1,55 +1,30 @@
-[14:51:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:51:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:51:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:51:43] [Server thread/INFO]: Loading properties
-[14:51:43] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:43] [Server thread/INFO]: Generating keypair
-[14:51:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:43] [Server thread/INFO]: Using epoll channel type
-[14:51:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:51:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:51:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:51:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:51:44] [Server thread/INFO]: Preparing level "world"
-[14:51:44] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:52:11] [Server thread/INFO]: Loaded 6 recipes
-[14:52:12] [Server thread/INFO]: Loaded 825 advancements
-[14:52:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:52:14] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:14] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:14] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:14] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:14] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:52:14] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:18] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[14:52:18] [Server thread/INFO]: Preparing spawn area: 98%
-[14:52:19] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[14:52:19] [Server-Worker-2/INFO]: Preparing spawn area: 99%
-[14:52:20] [Server thread/INFO]: Time elapsed: 7655 ms
-[14:52:20] [Server thread/INFO]: Done (36.000s)! For help, type "help"
-[21:27:05] [Server thread/INFO]: MinerOAO[/222.210.192.8:25260] logged in with entity id 174 at (95.12920683447886, 67.0, 29.73114791763815)
-[21:27:05] [Server thread/INFO]: MinerOAO joined the game
-[21:43:02] [Server thread/WARN]: MinerOAO moved wrongly!
-[21:46:12] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to 95.5, 76.0, 50.5]
-[21:59:06] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[21:59:06] [Server thread/INFO]: MinerOAO left the game
-[22:22:51] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:52181] logged in with entity id 4455 at (96.3360276241634, 67.0, 33.69999998807907)
-[22:22:51] [Server thread/INFO]: LeoMe55i10 joined the game
-[22:24:06] [Server thread/INFO]: LeoMe55i10 lost connection: Timed out
-[22:24:06] [Server thread/INFO]: LeoMe55i10 left the game
-[22:24:06] [Server thread/WARN]: handleDisconnection() called twice
-[22:24:11] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:52209] logged in with entity id 4572 at (95.68014195904603, 67.0, 31.83516657126154)
-[22:24:11] [Server thread/INFO]: LeoMe55i10 joined the game
-[22:27:50] [Server thread/INFO]: LeoMe55i10 tried to swim in lava to escape Zombie Pigman
-[22:30:41] [Server thread/INFO]: LeoMe55i10 tried to swim in lava
-[23:32:32] [Server thread/INFO]: LeoMe55i10 lost connection: Timed out
-[23:32:32] [Server thread/INFO]: LeoMe55i10 left the game
+[00:04:02] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:53401] logged in with entity id 10266 at (349.146732510511, 18.0, 141.30000001192096)
+[00:04:02] [Server thread/INFO]: LeoMe55i10 joined the game
+[00:04:52] [Server thread/INFO]: <LeoMe55i10> find spider cage a
+[00:05:10] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[00:05:10] [Server thread/INFO]: LeoMe55i10 left the game
+[14:27:30] [Server thread/INFO]: MinerOAO[/222.210.192.8:47658] logged in with entity id 10462 at (97.42318624735265, 67.0, 31.696107845226752)
+[14:27:30] [Server thread/INFO]: MinerOAO joined the game
+[14:32:40] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[14:32:40] [Server thread/INFO]: MinerOAO left the game
+[14:34:05] [Server thread/INFO]: MinerOAO[/222.210.192.8:56896] logged in with entity id 11180 at (100.9818438067837, 71.0, 39.034513470081556)
+[14:34:05] [Server thread/INFO]: MinerOAO joined the game
+[14:40:07] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[14:40:07] [Server thread/INFO]: MinerOAO left the game
+[14:40:10] [Server thread/INFO]: MinerOAO[/222.210.192.8:57209] logged in with entity id 11728 at (135.77875714855307, 68.0, 30.578808286427396)
+[14:40:10] [Server thread/INFO]: MinerOAO joined the game
+[15:30:57] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[15:30:57] [Server thread/INFO]: MinerOAO left the game
+[15:31:52] [Server thread/INFO]: Stopping the server
+[15:31:52] [Server thread/INFO]: Stopping server
+[15:31:52] [Server thread/INFO]: Saving players
+[15:31:52] [Server thread/INFO]: Saving worlds
+[15:31:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:31:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:31:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:31:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
