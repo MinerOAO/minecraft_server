@@ -1,32 +1,129 @@
-[13:14:24] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:4445] logged in with entity id 10300 at (1032.9393470153254, 68.0, 786.6999999880791)
-[13:14:24] [Server thread/INFO]: LeoMe55i10 joined the game
-[13:15:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5140a510[id=d3f24f28-c937-3645-926c-5bdc5ff39a88,name=LeoMe55i10,properties={},legacy=false] (/222.210.192.3:4531) lost connection: Disconnected
-[13:15:29] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[13:15:29] [Server thread/INFO]: LeoMe55i10 left the game
-[13:15:29] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:4601] logged in with entity id 10598 at (1041.699999988079, 65.5625, 811.3000000119209)
-[13:15:29] [Server thread/INFO]: LeoMe55i10 joined the game
-[13:16:43] [Server thread/INFO]: Villager axw['Mason'/10349, l='world', x=994.22, y=63.00, z=778.63] died, message: 'Mason was slain by Zombie'
-[13:33:28] [Server thread/INFO]: You whisper to LeoMe55i10: 傻逼，备份好了
-[13:33:44] [Server thread/INFO]: <LeoMe55i10> 不急
-[13:34:21] [Server thread/INFO]: You whisper to LeoMe55i10: 爷不能打游戏，这边全睡了
-[13:36:31] [Server thread/INFO]: LeoMe55i10 lost connection: Timed out
-[13:36:31] [Server thread/INFO]: LeoMe55i10 left the game
-[13:36:31] [Server thread/WARN]: handleDisconnection() called twice
-[13:36:38] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:6602] logged in with entity id 13006 at (1066.155487109148, 76.0, 784.0764060801841)
-[13:36:38] [Server thread/INFO]: LeoMe55i10 joined the game
-[13:38:43] [Server thread/INFO]: Villager axw['Villager'/13051, l='world', x=984.30, y=58.00, z=832.38] died, message: 'Villager was slain by Zombie'
-[13:54:05] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[13:54:05] [Server thread/INFO]: LeoMe55i10 left the game
-[14:11:10] [Server thread/INFO]: Stopping the server
-[14:11:11] [Server thread/INFO]: Stopping server
-[14:11:11] [Server thread/INFO]: Saving players
-[14:11:11] [Server thread/INFO]: Saving worlds
-[14:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:45:59] [Server thread/INFO]: Loading properties
+[17:45:59] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:59] [Server thread/INFO]: Generating keypair
+[17:46:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:46:00] [Server thread/INFO]: Using epoll channel type
+[17:46:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:46:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:46:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:46:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:46:00] [Server thread/INFO]: Preparing level "world"
+[17:46:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:46:27] [Server thread/INFO]: Loaded 6 recipes
+[17:46:28] [Server thread/INFO]: Loaded 825 advancements
+[17:46:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:31] [Server thread/INFO]: Preparing spawn area: 31%
+[17:46:35] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:46:35] [Server-Worker-1/INFO]: Preparing spawn area: 98%
+[17:46:36] [Server-Worker-1/INFO]: Preparing spawn area: 98%
+[17:46:36] [Server thread/INFO]: Preparing spawn area: 99%
+[17:46:36] [Server thread/INFO]: Time elapsed: 8020 ms
+[17:46:36] [Server thread/INFO]: Done (36.027s)! For help, type "help"
+[17:47:52] [Server thread/INFO]: MinerOAO[/222.210.192.8:54308] logged in with entity id 103 at (97.15378230719685, 67.0625, 30.808523340309158)
+[17:47:52] [Server thread/INFO]: MinerOAO joined the game
+[17:53:34] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[17:53:34] [Server thread/INFO]: MinerOAO left the game
+[18:32:30] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13385] logged in with entity id 1095 at (1039.1564831003584, 65.0, 812.0805287929546)
+[18:32:30] [Server thread/INFO]: LeoMe55i10 joined the game
+[18:43:42] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[18:43:42] [Server thread/INFO]: LeoMe55i10 left the game
+[18:45:27] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13464] logged in with entity id 2769 at (1061.9760600957325, 65.0, 744.7062909386299)
+[18:45:27] [Server thread/INFO]: LeoMe55i10 joined the game
+[19:00:03] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[19:00:03] [Server thread/INFO]: LeoMe55i10 left the game
+[19:02:18] [Server thread/INFO]: MinerOAO[/222.210.192.8:57956] logged in with entity id 4574 at (95.79683842473193, 67.0, 30.13994933049974)
+[19:02:18] [Server thread/INFO]: MinerOAO joined the game
+[19:04:01] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13534] logged in with entity id 4770 at (986.3000000119207, 31.0, 813.3000000119209)
+[19:04:01] [Server thread/INFO]: LeoMe55i10 joined the game
+[19:04:05] [Server thread/INFO]: <LeoMe55i10> 1
+[19:04:20] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to LeoMe55i10]
+[19:05:14] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to 95.5, 67.0, 30.5]
+[19:05:47] [Server thread/INFO]: Villager axw['Nitwit'/4961, l='world', x=1072.93, y=63.00, z=749.23] died, message: 'Nitwit was slain by Zombie'
+[19:06:58] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
+[19:12:54] [Server thread/INFO]: LeoMe55i10 fell from a high place
+[19:18:11] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
+[19:34:54] [Server thread/INFO]: MinerOAO has made the advancement [Not Today, Thank You]
+[20:22:20] [Server thread/WARN]: MinerOAO moved wrongly!
+[20:24:58] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[20:24:58] [Server thread/INFO]: LeoMe55i10 left the game
+[20:24:59] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[20:24:59] [Server thread/INFO]: MinerOAO left the game
+[20:27:33] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:14158] logged in with entity id 16268 at (317.6877489401755, 14.0, 156.68556805750316)
+[20:27:33] [Server thread/INFO]: LeoMe55i10 joined the game
+[20:27:43] [Server thread/INFO]: MinerOAO[/222.210.192.8:61446] logged in with entity id 16348 at (312.599499645939, 18.0, 164.30643351627896)
+[20:27:43] [Server thread/INFO]: MinerOAO joined the game
+[20:28:33] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[20:28:33] [Server thread/INFO]: LeoMe55i10 left the game
+[20:28:37] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:14162] logged in with entity id 16442 at (316.5959314121816, 13.0, 156.54993059306125)
+[20:28:37] [Server thread/INFO]: LeoMe55i10 joined the game
+[20:53:26] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to LeoMe55i10]
+[20:57:22] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:40:59] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:41:00] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:08] [Server thread/WARN]: Horse moved wrongly!
+[21:43:55] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[21:43:55] [Server thread/INFO]: LeoMe55i10 left the game
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:15] [Server thread/WARN]: Horse moved wrongly!
+[21:45:32] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[21:45:32] [Server thread/INFO]: MinerOAO left the game
+[21:46:26] [Server thread/INFO]: Stopping the server
+[21:46:26] [Server thread/INFO]: Stopping server
+[21:46:26] [Server thread/INFO]: Saving players
+[21:46:26] [Server thread/INFO]: Saving worlds
+[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
