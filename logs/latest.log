@@ -1,30 +1,8 @@
-[00:04:02] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:53401] logged in with entity id 10266 at (349.146732510511, 18.0, 141.30000001192096)
-[00:04:02] [Server thread/INFO]: LeoMe55i10 joined the game
-[00:04:52] [Server thread/INFO]: <LeoMe55i10> find spider cage a
-[00:05:10] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[00:05:10] [Server thread/INFO]: LeoMe55i10 left the game
-[14:27:30] [Server thread/INFO]: MinerOAO[/222.210.192.8:47658] logged in with entity id 10462 at (97.42318624735265, 67.0, 31.696107845226752)
-[14:27:30] [Server thread/INFO]: MinerOAO joined the game
-[14:32:40] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[14:32:40] [Server thread/INFO]: MinerOAO left the game
-[14:34:05] [Server thread/INFO]: MinerOAO[/222.210.192.8:56896] logged in with entity id 11180 at (100.9818438067837, 71.0, 39.034513470081556)
-[14:34:05] [Server thread/INFO]: MinerOAO joined the game
-[14:40:07] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[14:40:07] [Server thread/INFO]: MinerOAO left the game
-[14:40:10] [Server thread/INFO]: MinerOAO[/222.210.192.8:57209] logged in with entity id 11728 at (135.77875714855307, 68.0, 30.578808286427396)
-[14:40:10] [Server thread/INFO]: MinerOAO joined the game
-[15:30:57] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[15:30:57] [Server thread/INFO]: MinerOAO left the game
-[15:31:52] [Server thread/INFO]: Stopping the server
-[15:31:52] [Server thread/INFO]: Stopping server
-[15:31:52] [Server thread/INFO]: Saving players
-[15:31:52] [Server thread/INFO]: Saving worlds
-[15:31:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:31:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:31:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:31:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:14:24] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:4445] logged in with entity id 10300 at (1032.9393470153254, 68.0, 786.6999999880791)
+[13:14:24] [Server thread/INFO]: LeoMe55i10 joined the game
+[13:15:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@5140a510[id=d3f24f28-c937-3645-926c-5bdc5ff39a88,name=LeoMe55i10,properties={},legacy=false] (/222.210.192.3:4531) lost connection: Disconnected
+[13:15:29] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[13:15:29] [Server thread/INFO]: LeoMe55i10 left the game
+[13:15:29] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:4601] logged in with entity id 10598 at (1041.699999988079, 65.5625, 811.3000000119209)
+[13:15:29] [Server thread/INFO]: LeoMe55i10 joined the game
+[13:16:43] [Server thread/INFO]: Villager axw['Mason'/10349, l='world', x=994.22, y=63.00, z=778.63] died, message: 'Mason was slain by Zombie'
