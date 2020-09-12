@@ -1,129 +1,99 @@
-[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:45:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:45:59] [Server thread/INFO]: Loading properties
-[17:45:59] [Server thread/INFO]: Default game type: SURVIVAL
-[17:45:59] [Server thread/INFO]: Generating keypair
-[17:46:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:46:00] [Server thread/INFO]: Using epoll channel type
-[17:46:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:46:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:46:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:46:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:46:00] [Server thread/INFO]: Preparing level "world"
-[17:46:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:46:27] [Server thread/INFO]: Loaded 6 recipes
-[17:46:28] [Server thread/INFO]: Loaded 825 advancements
-[17:46:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:30] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:31] [Server thread/INFO]: Preparing spawn area: 31%
-[17:46:35] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[17:46:35] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[17:46:36] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[17:46:36] [Server thread/INFO]: Preparing spawn area: 99%
-[17:46:36] [Server thread/INFO]: Time elapsed: 8020 ms
-[17:46:36] [Server thread/INFO]: Done (36.027s)! For help, type "help"
-[17:47:52] [Server thread/INFO]: MinerOAO[/222.210.192.8:54308] logged in with entity id 103 at (97.15378230719685, 67.0625, 30.808523340309158)
-[17:47:52] [Server thread/INFO]: MinerOAO joined the game
-[17:53:34] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[17:53:34] [Server thread/INFO]: MinerOAO left the game
-[18:32:30] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13385] logged in with entity id 1095 at (1039.1564831003584, 65.0, 812.0805287929546)
-[18:32:30] [Server thread/INFO]: LeoMe55i10 joined the game
-[18:43:42] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[18:43:42] [Server thread/INFO]: LeoMe55i10 left the game
-[18:45:27] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13464] logged in with entity id 2769 at (1061.9760600957325, 65.0, 744.7062909386299)
-[18:45:27] [Server thread/INFO]: LeoMe55i10 joined the game
-[19:00:03] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[19:00:03] [Server thread/INFO]: LeoMe55i10 left the game
-[19:02:18] [Server thread/INFO]: MinerOAO[/222.210.192.8:57956] logged in with entity id 4574 at (95.79683842473193, 67.0, 30.13994933049974)
-[19:02:18] [Server thread/INFO]: MinerOAO joined the game
-[19:04:01] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:13534] logged in with entity id 4770 at (986.3000000119207, 31.0, 813.3000000119209)
-[19:04:01] [Server thread/INFO]: LeoMe55i10 joined the game
-[19:04:05] [Server thread/INFO]: <LeoMe55i10> 1
-[19:04:20] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to LeoMe55i10]
-[19:05:14] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to 95.5, 67.0, 30.5]
-[19:05:47] [Server thread/INFO]: Villager axw['Nitwit'/4961, l='world', x=1072.93, y=63.00, z=749.23] died, message: 'Nitwit was slain by Zombie'
-[19:06:58] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
-[19:12:54] [Server thread/INFO]: LeoMe55i10 fell from a high place
-[19:18:11] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
-[19:34:54] [Server thread/INFO]: MinerOAO has made the advancement [Not Today, Thank You]
-[20:22:20] [Server thread/WARN]: MinerOAO moved wrongly!
-[20:24:58] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[20:24:58] [Server thread/INFO]: LeoMe55i10 left the game
-[20:24:59] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[20:24:59] [Server thread/INFO]: MinerOAO left the game
-[20:27:33] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:14158] logged in with entity id 16268 at (317.6877489401755, 14.0, 156.68556805750316)
-[20:27:33] [Server thread/INFO]: LeoMe55i10 joined the game
-[20:27:43] [Server thread/INFO]: MinerOAO[/222.210.192.8:61446] logged in with entity id 16348 at (312.599499645939, 18.0, 164.30643351627896)
-[20:27:43] [Server thread/INFO]: MinerOAO joined the game
-[20:28:33] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[20:28:33] [Server thread/INFO]: LeoMe55i10 left the game
-[20:28:37] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:14162] logged in with entity id 16442 at (316.5959314121816, 13.0, 156.54993059306125)
-[20:28:37] [Server thread/INFO]: LeoMe55i10 joined the game
-[20:53:26] [Server thread/INFO]: [MinerOAO: Teleported MinerOAO to LeoMe55i10]
-[20:57:22] [Server thread/INFO]: [MinerOAO: Teleported LeoMe55i10 to MinerOAO]
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:40:59] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:41:00] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:08] [Server thread/WARN]: Horse moved wrongly!
-[21:43:55] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[21:43:55] [Server thread/INFO]: LeoMe55i10 left the game
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:15] [Server thread/WARN]: Horse moved wrongly!
-[21:45:32] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[21:45:32] [Server thread/INFO]: MinerOAO left the game
-[21:46:26] [Server thread/INFO]: Stopping the server
-[21:46:26] [Server thread/INFO]: Stopping server
-[21:46:26] [Server thread/INFO]: Saving players
-[21:46:26] [Server thread/INFO]: Saving worlds
-[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:46:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:17:05] [Server thread/INFO]: MinerOAO[/222.210.192.8:46729] logged in with entity id 181 at (96.69000223685346, 67.0, 31.680530293458247)
+[11:17:05] [Server thread/INFO]: MinerOAO joined the game
+[11:19:13] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[11:19:13] [Server thread/INFO]: MinerOAO left the game
+[12:14:26] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:32493] logged in with entity id 539 at (103.41785713467674, 69.0, 26.551302221854705)
+[12:14:26] [Server thread/INFO]: LeoMe55i10 joined the game
+[13:33:44] [Server thread/INFO]: MinerOAO[/222.210.192.8:59978] logged in with entity id 12098 at (96.49991323549082, 67.0625, 32.16401374592838)
+[13:33:44] [Server thread/INFO]: MinerOAO joined the game
+[13:33:52] [Server thread/INFO]: <LeoMe55i10> mideimidei
+[13:39:09] [Server thread/INFO]: <LeoMe55i10> 清理一下树
+[13:39:22] [Server thread/INFO]: <LeoMe55i10> 红石实验稍后开始
+[13:39:30] [Server thread/INFO]: <LeoMe55i10> 注意备份
+[13:41:43] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzz
+[13:52:45] [Server thread/INFO]: <MinerOAO> zzzzzzzzz
+[13:53:52] [Server thread/INFO]: <LeoMe55i10> qingyixiashu
+[13:54:02] [Server thread/INFO]: <MinerOAO> 跟人聊天呢
+[13:54:06] [Server thread/INFO]: <MinerOAO> 挂机
+[13:54:14] [Server thread/INFO]: <MinerOAO> NICE
+[13:56:01] [Server thread/INFO]: <LeoMe55i10> tmd
+[13:56:18] [Server thread/INFO]: <LeoMe55i10> trees need to be dao
+[14:05:20] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzz
+[14:05:49] [Server thread/INFO]: <MinerOAO> 哎，老朋友找我聊天，那当然是双线操作了
+[14:06:12] [Server thread/INFO]: LeoMe55i10 has made the advancement [The Parrots and the Bats]
+[14:06:22] [Server thread/INFO]: <LeoMe55i10> guanmen
+[14:16:12] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzz
+[14:20:02] [Server thread/INFO]: <LeoMe55i10> 能不能给我一个pig刷怪蛋
+[14:21:18] [Server thread/INFO]: * LeoMe55i10 gamemode 1
+[14:21:25] [Server thread/INFO]: * LeoMe55i10 kill
+[14:27:35] [Server thread/INFO]: <MinerOAO> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[14:28:00] [Server thread/INFO]: <MinerOAO> 你要猪干嘛
+[14:28:10] [Server thread/INFO]: <LeoMe55i10> 做脉冲
+[14:38:56] [Server thread/INFO]: <LeoMe55i10> ZZZZZZZZZZ
+[14:39:13] [Server thread/INFO]: <LeoMe55i10> ZZZZZZZZZZZ
+[14:49:45] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzz
+[14:50:14] [Server thread/INFO]: <MinerOAO> NMD那边怎么整了个脉冲电路
+[14:55:05] [Server thread/INFO]: <MinerOAO> ?
+[14:55:12] [Server thread/INFO]: <LeoMe55i10> 视察工作
+[14:55:25] [Server thread/INFO]: <MinerOAO> 同志们辛苦了
+[15:00:20] [Server thread/WARN]: LeoMe55i10 moved wrongly!
+[15:01:43] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzz
+[15:02:27] [Server thread/WARN]: MinerOAO moved wrongly!
+[15:03:13] [Server thread/WARN]: MinerOAO moved wrongly!
+[15:05:07] [Server thread/INFO]: <LeoMe55i10> hhhhhhhhh
+[15:05:12] [Server thread/INFO]: <MinerOAO> ?
+[15:05:17] [Server thread/INFO]: <LeoMe55i10> 红石真tm好玩
+[15:13:10] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzz
+[15:16:16] [Server thread/INFO]: <MinerOAO> ?
+[15:20:33] [Server thread/INFO]: <MinerOAO> ...
+[15:21:27] [Server thread/INFO]: <LeoMe55i10> 我在那边搞了几个脉冲发生器
+[15:21:35] [Server thread/INFO]: <MinerOAO> .................................................
+[15:21:36] [Server thread/INFO]: <LeoMe55i10> 也不知道有啥用
+[15:24:39] [Server thread/INFO]: <MinerOAO> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:28:43] [Server thread/INFO]: LeoMe55i10 burned to death
+[15:31:32] [Server thread/INFO]: LeoMe55i10 tried to swim in lava
+[15:31:36] [Server thread/INFO]: <MinerOAO> ?
+[15:33:02] [Server thread/INFO]: LeoMe55i10 drowned
+[15:37:02] [Server thread/INFO]: <MinerOAO> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:37:32] [Server thread/INFO]: <MinerOAO> 一期工程完工了
+[15:45:32] [Server thread/INFO]: <LeoMe55i10> 刷怪塔选址
+[15:45:36] [Server thread/INFO]: <LeoMe55i10> ing
+[15:46:20] [Server thread/INFO]: <MinerOAO> 重要指示:一定要拿下大刷怪塔
+[15:47:52] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzz
+[15:47:56] [Server thread/INFO]: <LeoMe55i10> toilet
+[15:48:01] [Server thread/INFO]: <LeoMe55i10> toilet
+[15:48:04] [Server thread/INFO]: <LeoMe55i10> zzzz
+[15:48:05] [Server thread/INFO]: <LeoMe55i10> zzzzz
+[15:48:06] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzz
+[15:48:07] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzz
+[15:48:09] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:48:11] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:48:13] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:48:19] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:48:29] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[15:48:40] [Server thread/INFO]: <LeoMe55i10> toilet
+[15:48:47] [Server thread/INFO]: <MinerOAO> 傻逼
+[15:50:43] [Server thread/INFO]: <LeoMe55i10> 我带床走
+[15:50:53] [Server thread/INFO]: <MinerOAO> 可
+[16:00:25] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzz
+[16:00:33] [Server thread/INFO]: <LeoMe55i10> zzzz
+[16:00:33] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:33] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:34] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:34] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:34] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:34] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:34] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:35] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:35] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:35] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:35] [Server thread/INFO]: <LeoMe55i10> z
+[16:00:38] [Server thread/INFO]: <MinerOAO> ?
+[16:00:39] [Server thread/INFO]: <MinerOAO> ?
+[16:00:40] [Server thread/INFO]: <MinerOAO> ?
+[16:00:40] [Server thread/INFO]: <MinerOAO> ?
+[16:00:41] [Server thread/INFO]: <MinerOAO> ?
+[16:00:41] [Server thread/INFO]: <LeoMe55i10> zzzzzzzzzzzzzzzzzzzzzzz
+[16:00:42] [Server thread/INFO]: <MinerOAO> ?
+[16:00:47] [Server thread/INFO]: <LeoMe55i10> shui a sha bi
+[16:00:54] [Server thread/INFO]: <MinerOAO> 傻逼
