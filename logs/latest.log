@@ -1,13 +1,16 @@
-[18:50:15] [Server thread/INFO]: Stopping the server
-[18:50:15] [Server thread/INFO]: Stopping server
-[18:50:15] [Server thread/INFO]: Saving players
-[18:50:15] [Server thread/INFO]: Saving worlds
-[18:50:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:50:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:50:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:50:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:48:48] [Server thread/INFO]: MinerOAO[/222.210.192.8:4648] logged in with entity id 4630 at (113.73521634455253, 68.0, 34.474336937671325)
+[15:48:48] [Server thread/INFO]: MinerOAO joined the game
+[16:12:19] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[16:12:19] [Server thread/INFO]: MinerOAO left the game
+[16:12:28] [Server thread/INFO]: Stopping server
+[16:12:28] [Server thread/INFO]: Saving players
+[16:12:28] [Server thread/INFO]: Saving worlds
+[16:12:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:12:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:12:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
