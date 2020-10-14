@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-10-13 17:20:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-08-30 13:37:27 +0800"
@@ -553,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2020-10-13 19:57:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-08-29 23:03:08 +0800"
@@ -611,6 +623,7 @@
       "minecraft:husk": "2020-08-31 19:03:50 +0800",
       "minecraft:cave_spider": "2020-08-30 15:31:28 +0800",
       "minecraft:enderman": "2020-08-31 12:04:48 +0800",
+      "minecraft:silverfish": "2020-10-13 21:19:03 +0800",
       "minecraft:zombie": "2020-08-29 23:31:03 +0800",
       "minecraft:drowned": "2020-09-11 18:41:13 +0800",
       "minecraft:zombie_villager": "2020-08-30 15:48:23 +0800"
@@ -683,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-10-13 17:20:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-09-12 12:17:28 +0800"
@@ -749,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-10-13 21:02:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-09-12 16:23:22 +0800"
@@ -812,6 +837,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-08-31 16:55:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-10-13 21:07:51 +0800"
     },
     "done": true
   },
@@ -1082,6 +1113,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-08-29 23:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-10-13 21:12:19 +0800"
     },
     "done": true
   },
@@ -1769,6 +1806,7 @@
       "mutton": "2020-08-29 23:10:11 +0800",
       "bread": "2020-08-30 16:20:46 +0800",
       "rotten_flesh": "2020-08-29 23:36:31 +0800",
+      "melon_slice": "2020-10-13 17:25:05 +0800",
       "cooked_rabbit": "2020-08-31 16:53:17 +0800",
       "cooked_chicken": "2020-08-30 13:48:02 +0800",
       "cod": "2020-08-30 15:58:29 +0800",
@@ -2215,6 +2253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-10-13 20:50:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-29 23:08:12 +0800"
@@ -2248,6 +2292,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-08-29 23:03:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-10-13 20:50:58 +0800"
     },
     "done": true
   },
@@ -2845,6 +2895,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-10-13 21:07:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-08-30 12:41:13 +0800"
@@ -2920,6 +2976,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-08-29 23:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-10-13 17:20:12 +0800"
     },
     "done": true
   },
