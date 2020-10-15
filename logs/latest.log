@@ -1,212 +1,376 @@
-[12:09:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:09:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:09:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:09:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:09:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:09:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[12:09:14] [Server thread/INFO]: Loading properties
-[12:09:14] [Server thread/INFO]: Default game type: SURVIVAL
-[12:09:14] [Server thread/INFO]: Generating keypair
-[12:09:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:09:18] [Server thread/INFO]: Using epoll channel type
-[12:09:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:09:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:09:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:09:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:09:20] [Server thread/INFO]: Preparing level "world"
-[12:09:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:11:54] [Server thread/INFO]: Loaded 6 recipes
-[12:11:55] [Server thread/INFO]: Loaded 825 advancements
-[12:11:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:12:13] [Server thread/INFO]: Preparing spawn area: 21%
-[12:12:14] [Server thread/INFO]: Preparing spawn area: 46%
-[12:12:14] [Server thread/INFO]: Preparing spawn area: 46%
-[12:12:15] [Server thread/INFO]: Time elapsed: 17124 ms
-[12:12:15] [Server thread/INFO]: Done (174.786s)! For help, type "help"
-[12:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[12:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8154ms or 163 ticks behind
-[12:14:31] [Server thread/INFO]: MinerOAO[/222.210.192.41:37261] logged in with entity id 180 at (92.29812093046944, 71.0625, 27.500407708919475)
-[12:14:31] [Server thread/INFO]: MinerOAO joined the game
-[12:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
-[12:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17379ms or 347 ticks behind
-[12:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10623ms or 212 ticks behind
-[12:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6359ms or 127 ticks behind
-[12:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
-[12:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[12:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5976ms or 119 ticks behind
-[12:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
-[12:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[12:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
-[12:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[12:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
-[12:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[12:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
-[12:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[12:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[12:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[12:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[12:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[12:24:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
-[12:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
-[12:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6079ms or 121 ticks behind
-[12:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[12:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
-[12:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
-[12:31:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[12:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[12:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
-[12:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[12:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[12:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[12:38:20] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[12:38:20] [Server thread/INFO]: MinerOAO left the game
-[12:38:24] [Server thread/INFO]: MinerOAO[/222.210.192.41:43647] logged in with entity id 2302 at (95.13577244616003, 67.0625, 28.615922527493314)
-[12:38:24] [Server thread/INFO]: MinerOAO joined the game
-[12:38:30] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[12:38:30] [Server thread/INFO]: MinerOAO left the game
-[15:25:46] [Server thread/INFO]: MinerOAO[/113.54.227.167:53024] logged in with entity id 2316 at (92.97491447575084, 67.5625, 29.483624062831236)
-[15:25:46] [Server thread/INFO]: MinerOAO joined the game
-[15:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[15:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
-[15:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[15:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3742ms or 74 ticks behind
-[15:27:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[15:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[15:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
-[15:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[15:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
-[15:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
-[15:30:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
-[15:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
-[15:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[15:32:32] [Server thread/INFO]: MinerOAO lost connection: Timed out
-[15:32:32] [Server thread/INFO]: MinerOAO left the game
-[15:32:32] [Server thread/WARN]: handleDisconnection() called twice
-[16:24:27] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:63922] logged in with entity id 2952 at (68.61135716696111, 71.0, 41.41042030849155)
-[16:24:27] [Server thread/INFO]: LeoMe55i10 joined the game
-[16:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
-[16:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[16:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[16:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
-[16:26:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[16:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[16:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
-[16:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11726ms or 234 ticks behind
-[16:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[16:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
-[16:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
-[16:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7057ms or 141 ticks behind
-[16:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
-[16:31:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12708ms or 254 ticks behind
-[16:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11478ms or 229 ticks behind
-[16:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10835ms or 216 ticks behind
-[16:32:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4839ms or 96 ticks behind
-[16:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4585ms or 91 ticks behind
-[16:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7930ms or 158 ticks behind
-[16:33:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10428ms or 208 ticks behind
-[16:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7168ms or 143 ticks behind
-[16:34:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9299ms or 185 ticks behind
-[16:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8913ms or 178 ticks behind
-[16:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9934ms or 198 ticks behind
-[16:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7018ms or 140 ticks behind
-[16:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9947ms or 198 ticks behind
-[16:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8033ms or 160 ticks behind
-[16:36:40] [Server thread/INFO]: LeoMe55i10 fell out of the world
-[16:36:40] [Server thread/INFO]: [LeoMe55i10: Killed LeoMe55i10]
-[16:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9011ms or 180 ticks behind
-[16:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
-[16:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
-[16:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
-[16:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11388ms or 227 ticks behind
-[16:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
-[16:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[16:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
-[16:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
-[16:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
-[16:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
-[16:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6314ms or 126 ticks behind
-[16:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
-[16:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
-[16:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
-[16:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4326ms or 86 ticks behind
-[16:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[16:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4053ms or 81 ticks behind
-[16:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10448ms or 208 ticks behind
-[16:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[16:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
-[16:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[16:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
-[16:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4127ms or 82 ticks behind
-[16:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[16:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
-[16:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4140ms or 82 ticks behind
-[16:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3885ms or 77 ticks behind
-[16:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
-[16:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4327ms or 86 ticks behind
-[16:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
-[16:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
-[16:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[16:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9593ms or 191 ticks behind
-[16:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11666ms or 233 ticks behind
-[16:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
-[16:50:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4772ms or 95 ticks behind
-[16:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8276ms or 165 ticks behind
-[16:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
-[16:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
-[16:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3721ms or 74 ticks behind
-[16:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
-[16:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
-[16:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6040ms or 120 ticks behind
-[16:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6207ms or 124 ticks behind
-[16:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[16:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6684ms or 133 ticks behind
-[16:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
-[16:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
-[16:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6440ms or 128 ticks behind
-[16:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
-[16:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[16:56:42] [Server thread/INFO]: [LeoMe55i10: Teleported LeoMe55i10 to 514.9, 72.0, -150.0]
-[16:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
-[16:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[16:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8692ms or 173 ticks behind
-[16:57:34] [Server thread/INFO]: LeoMe55i10 fell out of the world
-[16:57:34] [Server thread/INFO]: [LeoMe55i10: Killed LeoMe55i10]
-[16:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
-[16:57:57] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
-[16:57:57] [Server thread/INFO]: LeoMe55i10 left the game
+[13:45:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:45:53] [Server thread/INFO]: Loading properties
+[13:45:56] [Server thread/INFO]: This server is running Paper version git-Paper-389 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:46:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:46:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:46:01] [Server thread/INFO]: Debug logging is disabled
+[13:46:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:46:02] [Server thread/INFO]: Generating keypair
+[13:46:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:46:05] [Server thread/INFO]: Using epoll channel type
+[13:46:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:46:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:46:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:46:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:46:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:46:08] [Server thread/INFO]: Preparing level "world"
+[13:46:10] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:53:01] [Server thread/INFO]: Loaded 6 recipes
+[13:53:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:53:07] [Server thread/INFO]: Mob Spawn Range: 3
+[13:53:07] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:53:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:53:07] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
+[13:53:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:53:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:53:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:53:07] [Server thread/INFO]: Max TNT Explosions: 100
+[13:53:07] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
+[13:53:07] [Server thread/INFO]: View Distance: 5
+[13:53:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:53:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:53:07] [Server thread/INFO]: Item Merge Radius: 3.5
+[13:53:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:53:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:53:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:53:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:53:10] [Server thread/INFO]: Mob Spawn Range: 3
+[13:53:10] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:53:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:53:10] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
+[13:53:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:53:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:53:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:53:10] [Server thread/INFO]: Max TNT Explosions: 100
+[13:53:10] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
+[13:53:10] [Server thread/INFO]: View Distance: 5
+[13:53:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:53:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:53:10] [Server thread/INFO]: Item Merge Radius: 3.5
+[13:53:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:53:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:53:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:53:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:53:11] [Server thread/INFO]: Mob Spawn Range: 3
+[13:53:11] [Server thread/INFO]: Experience Merge Radius: 6.0
+[13:53:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:53:11] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
+[13:53:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:53:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:53:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[13:53:11] [Server thread/INFO]: Max TNT Explosions: 100
+[13:53:11] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
+[13:53:11] [Server thread/INFO]: View Distance: 5
+[13:53:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:53:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:53:11] [Server thread/INFO]: Item Merge Radius: 3.5
+[13:53:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:53:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:53:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:53:12] [Server thread/INFO]: Running delayed init tasks
+[13:53:13] [Server thread/INFO]: Done (439.534s)! For help, type "help"
+[13:53:13] [Server thread/INFO]: Timings Reset
+[13:54:34] [User Authenticator #1/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
+[13:54:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
+[13:54:44] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:44] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[13:54:44] [Paper Watchdog Thread/ERROR]: 2,1 in 'world:
+[13:54:44] [Paper Watchdog Thread/ERROR]: Load Task - none
+[13:54:44] [Paper Watchdog Thread/ERROR]: Save Task - none
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:full
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[13:54:44] [Paper Watchdog Thread/ERROR]:   1,2 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   2,2 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   1,0 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   3,2 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   3,0 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   3,1 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   2,0 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]:   1,1 in world:
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
+[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:44] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:54:44] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
+[13:54:44] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.getClass(Native Method)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:194)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.lambda$a$12(VillagePlace.java:182)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace$$Lambda$2662/1517659093.run(Unknown Source)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.SystemUtils.a(SystemUtils.java:235)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:174)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$loadChunk$3(ChunkRegionLoader.java:115)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkRegionLoader$$Lambda$2612/854303209.run(Unknown Source)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2657/1107252888.accept(Unknown Source)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Iterable.forEach(Iterable.java:75)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$f$33(PlayerChunkMap.java:1133)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2570/1184953514.apply(Unknown Source)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$null$34(PlayerChunkMap.java:1164)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2630/1532761428.run(Unknown Source)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.chunk.ChunkTaskManager.pollChunkWaitQueue(ChunkTaskManager.java:246)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1099)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:510)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:332)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:277)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getType(World.java:665)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityHuman.getBed(EntityHuman.java:1435)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityPlayer.spawnIn(EntityPlayer.java:327)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1817)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldNBTStorage.load(WorldNBTStorage.java:205)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:437)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:111)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:380)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:142)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1354)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
+[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
+[13:54:49] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:49] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:49] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:54:49] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
+[13:54:49] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.unpark(Native Method)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:141)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer.unparkSuccessor(AbstractQueuedSynchronizer.java:662)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1264)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:457)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:176)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:430)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1371)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ThreadedMailbox.f(ThreadedMailbox.java:106)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ThreadedMailbox.a(ThreadedMailbox.java:100)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.a(SourceFile:103)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunk.a(PlayerChunk.java:734)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance.a(ChunkMapDistance.java:117)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tickDistanceManager(ChunkProviderServer.java:639)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance.markAreaHighPriority(ChunkMapDistance.java:235)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.markAreaHighPriority(ChunkProviderServer.java:455)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:177)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:380)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:142)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1354)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
+[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15108ms or 302 ticks behind
+[13:54:51] [Server thread/INFO]: MinerOAO joined the game
+[13:54:52] [Server thread/INFO]: MinerOAO[/222.210.192.41:31063] logged in with entity id 1 at ([world]-48.0, 68.0, 0.0)
+[13:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 63769ms or 1275 ticks behind
+[13:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[13:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[13:58:40] [Server thread/INFO]: MinerOAO issued server command: /gamemode creative
+[13:58:40] [Server thread/INFO]: [MinerOAO: Set own game mode to Creative Mode]
+[14:00:27] [Server thread/INFO]: MinerOAO issued server command: /gamemode survival
+[14:00:27] [Server thread/INFO]: [MinerOAO: Set own game mode to Survival Mode]
+[14:00:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
+[14:00:45] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:00:45] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:00:45] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[14:00:45] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
+[14:00:45] [Paper Watchdog Thread/ERROR]: 	Stack:
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkStatus.a(ChunkStatus.java:158)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkFutureMainThread(ChunkProviderServer.java:554)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:499)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:332)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.lambda$a$19(VillagePlace.java:218)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace$$Lambda$3110/461468656.accept(Unknown Source)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.SectionPosition$1.tryAdvance(SectionPosition.java:170)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.Spliterator.forEachRemaining(Spliterator.java:326)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:217)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PortalTravelAgent.findPortal(PortalTravelAgent.java:56)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.teleportTo(Entity.java:2738)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.a(Entity.java:2649)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.doPortalTick(Entity.java:2275)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.postTick(Entity.java:443)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:809)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$2819/1044984180.accept(Unknown Source)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:879)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:532)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1328)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
+[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:00:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11603ms or 232 ticks behind
+[14:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
+[14:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17596ms or 351 ticks behind
+[14:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[14:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[14:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[14:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
+[14:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[14:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25565ms or 511 ticks behind
+[14:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21145ms or 422 ticks behind
+[14:12:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9691ms or 193 ticks behind
+[14:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32825ms or 656 ticks behind
+[14:15:58] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[14:15:59] [Server thread/INFO]: MinerOAO left the game
+[14:16:03] [User Authenticator #2/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
+[14:16:04] [Server thread/INFO]: MinerOAO joined the game
+[14:16:05] [Server thread/INFO]: MinerOAO[/222.210.192.41:57535] logged in with entity id 1739 at ([world]-1234.699999988079, 77.0, -158.30095082023726)
+[14:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[14:16:49] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[14:16:49] [Server thread/INFO]: MinerOAO left the game
+[14:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7987ms or 159 ticks behind
+[14:16:55] [User Authenticator #2/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
+[14:16:57] [Server thread/INFO]: MinerOAO joined the game
+[14:16:57] [Server thread/INFO]: MinerOAO[/222.210.192.41:57572] logged in with entity id 1811 at ([world]-1278.697336884285, 71.0, -158.58553605988868)
+[14:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8068ms or 161 ticks behind
+[14:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52472ms or 1049 ticks behind
+[14:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 65965ms or 1319 ticks behind
+[14:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20772ms or 415 ticks behind
+[14:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8847ms or 176 ticks behind
+[14:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22452ms or 449 ticks behind
+[14:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18607ms or 372 ticks behind
+[14:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18745ms or 374 ticks behind
+[14:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47568ms or 951 ticks behind
+[14:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48335ms or 966 ticks behind
+[14:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32362ms or 647 ticks behind
+[14:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52355ms or 1047 ticks behind
+[14:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34544ms or 690 ticks behind
+[14:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16248ms or 324 ticks behind
+[14:32:04] [Server thread/INFO]: MinerOAO lost connection: Disconnected
+[14:32:04] [Server thread/INFO]: MinerOAO left the game
+[14:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15605ms or 312 ticks behind
+[14:32:09] [Server thread/INFO]: Stopping the server
+[14:32:10] [Server thread/INFO]: Stopping server
+[14:32:10] [Server thread/INFO]: Saving players
+[14:32:10] [Server thread/INFO]: Saving worlds
+[14:32:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:32:24] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:32:24] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:32:24] [Server thread/INFO]: Saving usercache.json
+[14:32:24] [Server thread/INFO]: Flushing Chunk IO
+[14:32:24] [Server thread/INFO]: Closing Thread Pool
+[14:32:24] [Server thread/INFO]: Closing Server
