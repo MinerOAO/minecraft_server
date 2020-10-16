@@ -24,7 +24,7 @@ settings:
   console-has-all-permissions: false
   suggest-player-names-when-null-tab-completions: true
   enable-player-collisions: true
-  chunk-tasks-per-tick: 1000
+  chunk-tasks-per-tick: 500
   save-empty-scoreboard-teams: false
   velocity-support:
     enabled: false

@@ -1,376 +1,109 @@
-[13:45:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:45:53] [Server thread/INFO]: Loading properties
-[13:45:56] [Server thread/INFO]: This server is running Paper version git-Paper-389 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[13:46:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:46:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:46:01] [Server thread/INFO]: Debug logging is disabled
-[13:46:02] [Server thread/INFO]: Default game type: SURVIVAL
-[13:46:02] [Server thread/INFO]: Generating keypair
-[13:46:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:46:05] [Server thread/INFO]: Using epoll channel type
-[13:46:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:46:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:46:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:46:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:46:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:46:08] [Server thread/INFO]: Preparing level "world"
-[13:46:10] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[13:53:01] [Server thread/INFO]: Loaded 6 recipes
-[13:53:07] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:53:07] [Server thread/INFO]: Mob Spawn Range: 3
-[13:53:07] [Server thread/INFO]: Experience Merge Radius: 6.0
-[13:53:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:53:07] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
-[13:53:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:53:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:53:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[13:53:07] [Server thread/INFO]: Max TNT Explosions: 100
-[13:53:07] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
-[13:53:07] [Server thread/INFO]: View Distance: 5
-[13:53:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:53:07] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:53:07] [Server thread/INFO]: Item Merge Radius: 3.5
-[13:53:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:53:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:53:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:53:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[13:53:10] [Server thread/INFO]: Mob Spawn Range: 3
-[13:53:10] [Server thread/INFO]: Experience Merge Radius: 6.0
-[13:53:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:53:10] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
-[13:53:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:53:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:53:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[13:53:10] [Server thread/INFO]: Max TNT Explosions: 100
-[13:53:10] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
-[13:53:10] [Server thread/INFO]: View Distance: 5
-[13:53:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:53:10] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:53:10] [Server thread/INFO]: Item Merge Radius: 3.5
-[13:53:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:53:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:53:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:53:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[13:53:11] [Server thread/INFO]: Mob Spawn Range: 3
-[13:53:11] [Server thread/INFO]: Experience Merge Radius: 6.0
-[13:53:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:53:11] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 10 / Tiv true
-[13:53:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:53:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:53:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[13:53:11] [Server thread/INFO]: Max TNT Explosions: 100
-[13:53:11] [Server thread/INFO]: Tile Max Tick Time: 10ms Entity max Tick Time: 20ms
-[13:53:11] [Server thread/INFO]: View Distance: 5
-[13:53:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:53:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:53:11] [Server thread/INFO]: Item Merge Radius: 3.5
-[13:53:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:53:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:53:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:53:12] [Server thread/INFO]: Running delayed init tasks
-[13:53:13] [Server thread/INFO]: Done (439.534s)! For help, type "help"
-[13:53:13] [Server thread/INFO]: Timings Reset
-[13:54:34] [User Authenticator #1/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
-[13:54:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
-[13:54:44] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:44] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
-[13:54:44] [Paper Watchdog Thread/ERROR]: 2,1 in 'world:
-[13:54:44] [Paper Watchdog Thread/ERROR]: Load Task - none
-[13:54:44] [Paper Watchdog Thread/ERROR]: Save Task - none
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:full
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
-[13:54:44] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
-[13:54:44] [Paper Watchdog Thread/ERROR]:   1,2 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   2,2 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   1,0 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   3,2 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   3,0 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   3,1 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   2,0 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]:   1,1 in world:
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Status - null chunk
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:features
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - null
-[13:54:44] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
-[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:44] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:54:44] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
-[13:54:44] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Object.getClass(Native Method)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:194)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.lambda$a$12(VillagePlace.java:182)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace$$Lambda$2662/1517659093.run(Unknown Source)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.SystemUtils.a(SystemUtils.java:235)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:174)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$loadChunk$3(ChunkRegionLoader.java:115)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkRegionLoader$$Lambda$2612/854303209.run(Unknown Source)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2657/1107252888.accept(Unknown Source)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Iterable.forEach(Iterable.java:75)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$f$33(PlayerChunkMap.java:1133)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2570/1184953514.apply(Unknown Source)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$null$34(PlayerChunkMap.java:1164)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2630/1532761428.run(Unknown Source)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.chunk.ChunkTaskManager.pollChunkWaitQueue(ChunkTaskManager.java:246)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1099)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:510)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:332)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:277)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getType(World.java:665)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityHuman.getBed(EntityHuman.java:1435)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityPlayer.spawnIn(EntityPlayer.java:327)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1817)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldNBTStorage.load(WorldNBTStorage.java:205)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:437)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:111)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:380)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:142)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1354)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
-[13:54:44] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
-[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:54:44] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
-[13:54:49] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
-[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:49] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:49] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:54:49] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
-[13:54:49] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.unpark(Native Method)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:141)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer.unparkSuccessor(AbstractQueuedSynchronizer.java:662)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1264)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:457)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:176)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:430)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1371)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ThreadedMailbox.f(ThreadedMailbox.java:106)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ThreadedMailbox.a(ThreadedMailbox.java:100)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.a(SourceFile:103)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunk.a(PlayerChunk.java:734)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance.a(ChunkMapDistance.java:117)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tickDistanceManager(ChunkProviderServer.java:639)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance.markAreaHighPriority(ChunkMapDistance.java:235)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.markAreaHighPriority(ChunkProviderServer.java:455)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:177)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:380)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:142)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1354)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
-[13:54:49] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
-[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:54:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15108ms or 302 ticks behind
-[13:54:51] [Server thread/INFO]: MinerOAO joined the game
-[13:54:52] [Server thread/INFO]: MinerOAO[/222.210.192.41:31063] logged in with entity id 1 at ([world]-48.0, 68.0, 0.0)
-[13:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 63769ms or 1275 ticks behind
-[13:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[13:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
-[13:58:40] [Server thread/INFO]: MinerOAO issued server command: /gamemode creative
-[13:58:40] [Server thread/INFO]: [MinerOAO: Set own game mode to Creative Mode]
-[14:00:27] [Server thread/INFO]: MinerOAO issued server command: /gamemode survival
-[14:00:27] [Server thread/INFO]: [MinerOAO: Set own game mode to Survival Mode]
-[14:00:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
-[14:00:45] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
-[14:00:45] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
-[14:00:45] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[14:00:45] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
-[14:00:45] [Paper Watchdog Thread/ERROR]: 	Stack:
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkStatus.a(ChunkStatus.java:158)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkFutureMainThread(ChunkProviderServer.java:554)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:499)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:332)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.lambda$a$19(VillagePlace.java:218)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace$$Lambda$3110/461468656.accept(Unknown Source)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.SectionPosition$1.tryAdvance(SectionPosition.java:170)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.Spliterator.forEachRemaining(Spliterator.java:326)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:217)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PortalTravelAgent.findPortal(PortalTravelAgent.java:56)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.teleportTo(Entity.java:2738)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.a(Entity.java:2649)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.doPortalTick(Entity.java:2275)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.postTick(Entity.java:443)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:809)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$2819/1044984180.accept(Unknown Source)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:879)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:532)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1328)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
-[14:00:45] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
-[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
-[14:00:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[14:00:45] [Paper Watchdog Thread/ERROR]: ------------------------------
-[14:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11603ms or 232 ticks behind
-[14:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
-[14:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17596ms or 351 ticks behind
-[14:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
-[14:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
-[14:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[14:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
-[14:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
-[14:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25565ms or 511 ticks behind
-[14:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21145ms or 422 ticks behind
-[14:12:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9691ms or 193 ticks behind
-[14:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[14:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32825ms or 656 ticks behind
-[14:15:58] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[14:15:59] [Server thread/INFO]: MinerOAO left the game
-[14:16:03] [User Authenticator #2/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
-[14:16:04] [Server thread/INFO]: MinerOAO joined the game
-[14:16:05] [Server thread/INFO]: MinerOAO[/222.210.192.41:57535] logged in with entity id 1739 at ([world]-1234.699999988079, 77.0, -158.30095082023726)
-[14:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[14:16:49] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[14:16:49] [Server thread/INFO]: MinerOAO left the game
-[14:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7987ms or 159 ticks behind
-[14:16:55] [User Authenticator #2/INFO]: UUID of player MinerOAO is cacf33bd-74af-37fc-b5eb-4dfc75d5767d
-[14:16:57] [Server thread/INFO]: MinerOAO joined the game
-[14:16:57] [Server thread/INFO]: MinerOAO[/222.210.192.41:57572] logged in with entity id 1811 at ([world]-1278.697336884285, 71.0, -158.58553605988868)
-[14:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8068ms or 161 ticks behind
-[14:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52472ms or 1049 ticks behind
-[14:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 65965ms or 1319 ticks behind
-[14:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20772ms or 415 ticks behind
-[14:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8847ms or 176 ticks behind
-[14:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22452ms or 449 ticks behind
-[14:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18607ms or 372 ticks behind
-[14:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18745ms or 374 ticks behind
-[14:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47568ms or 951 ticks behind
-[14:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48335ms or 966 ticks behind
-[14:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32362ms or 647 ticks behind
-[14:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52355ms or 1047 ticks behind
-[14:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34544ms or 690 ticks behind
-[14:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16248ms or 324 ticks behind
-[14:32:04] [Server thread/INFO]: MinerOAO lost connection: Disconnected
-[14:32:04] [Server thread/INFO]: MinerOAO left the game
-[14:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15605ms or 312 ticks behind
-[14:32:09] [Server thread/INFO]: Stopping the server
-[14:32:10] [Server thread/INFO]: Stopping server
-[14:32:10] [Server thread/INFO]: Saving players
-[14:32:10] [Server thread/INFO]: Saving worlds
-[14:32:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:32:24] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:32:24] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:32:24] [Server thread/INFO]: Saving usercache.json
-[14:32:24] [Server thread/INFO]: Flushing Chunk IO
-[14:32:24] [Server thread/INFO]: Closing Thread Pool
-[14:32:24] [Server thread/INFO]: Closing Server
+[12:01:08] [User Authenticator #9/INFO]: UUID of player LeoMe55i10 is d3f24f28-c937-3645-926c-5bdc5ff39a88
+[12:01:09] [Server thread/INFO]: LeoMe55i10 joined the game
+[12:01:09] [Server thread/INFO]: LeoMe55i10[/222.210.192.3:16816] logged in with entity id 3190 at ([world]94.5, 67.0625002, 30.5)
+[12:04:42] [Server thread/INFO]: LeoMe55i10 issued server command: /give LeoMe55i10
+[12:05:15] [Server thread/INFO]: LeoMe55i10 issued server command: /gamemode creative
+[12:05:15] [Server thread/INFO]: [LeoMe55i10: Set own game mode to Creative Mode]
+[12:14:23] [Server thread/INFO]: Villager EntityVillager['Villager'/3635, uuid='22d66932-4a7d-4037-b454-67b878b97f4f', l='world', x=-234.30, y=91.00, z=215.20, cx=-15, cz=13, tl=2010, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[12:14:27] [Server thread/INFO]: Villager EntityVillager['Villager'/3607, uuid='41c860fe-5bdb-43f0-8289-e72560d763b7', l='world', x=-239.32, y=92.00, z=214.45, cx=-15, cz=13, tl=4345, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[12:14:55] [Server thread/INFO]: LeoMe55i10 issued server command: /gamemode survival
+[12:14:55] [Server thread/INFO]: [LeoMe55i10: Set own game mode to Survival Mode]
+[12:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[12:16:00] [Server thread/INFO]: LeoMe55i10 issued server command: /gamemode creative
+[12:16:00] [Server thread/INFO]: [LeoMe55i10: Set own game mode to Creative Mode]
+[12:19:11] [Server thread/INFO]: LeoMe55i10 issued server command: /kill
+[12:19:11] [Server thread/INFO]: LeoMe55i10 fell out of the world
+[12:19:11] [Server thread/INFO]: [LeoMe55i10: Killed LeoMe55i10]
+[12:24:18] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-389 (MC: 1.15.2) ---
+[12:24:18] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[12:24:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:24:18] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:24:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:24:18] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:24:18] [Paper Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: RUNNABLE
+[12:24:18] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.unpark(Native Method)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:141)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.notifyTasks(QueueExecutorThread.java:147)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.QueueExecutorThread.queueTask(QueueExecutorThread.java:155)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.PaperFileIOThread.lambda$scheduleRead$5(PaperFileIOThread.java:359)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.PaperFileIOThread$$Lambda$2569/606335715.apply(Unknown Source)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:1853)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.PaperFileIOThread.scheduleRead(PaperFileIOThread.java:341)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.PaperFileIOThread.loadChunkDataAsync(PaperFileIOThread.java:309)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.chunk.ChunkTaskManager.lambda$scheduleChunkLoad$8(ChunkTaskManager.java:349)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.chunk.ChunkTaskManager$$Lambda$2563/1311629276.apply(Unknown Source)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:1853)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.io.chunk.ChunkTaskManager.scheduleChunkLoad(ChunkTaskManager.java:337)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.f(PlayerChunkMap.java:1185)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunkMap.a(PlayerChunkMap.java:1080)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerChunk.a(PlayerChunk.java:523)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkFutureMainThread(ChunkProviderServer.java:582)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:499)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:332)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(IWorldReader.java:87)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.lambda$a$19(VillagePlace.java:218)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace$$Lambda$3330/1104441953.accept(Unknown Source)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.SectionPosition$1.tryAdvance(SectionPosition.java:170)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.Spliterator.forEachRemaining(Spliterator.java:326)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VillagePlace.a(VillagePlace.java:217)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PortalTravelAgent.findPortal(PortalTravelAgent.java:56)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PortalTravelAgent.findAndTeleport(PortalTravelAgent.java:29)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityPlayer.a(EntityPlayer.java:950)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.doPortalTick(Entity.java:2273)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.entityBaseTick(Entity.java:461)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityLiving.entityBaseTick(EntityLiving.java:244)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.Entity.tick(Entity.java:436)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityLiving.tick(EntityLiving.java:2347)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityHuman.tick(EntityHuman.java:165)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityPlayer.playerTick(EntityPlayer.java:463)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerConnection.tick(PlayerConnection.java:159)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:385)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:142)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1354)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1182)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971)
+[12:24:18] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[12:24:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:24:18] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:24:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11115ms or 222 ticks behind
+[12:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25252ms or 505 ticks behind
+[12:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[12:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6330ms or 126 ticks behind
+[12:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[12:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[12:32:53] [Server thread/INFO]: LeoMe55i10 issued server command: /kill
+[12:32:53] [Server thread/INFO]: LeoMe55i10 fell out of the world
+[12:32:53] [Server thread/INFO]: [LeoMe55i10: Killed LeoMe55i10]
+[12:33:30] [Server thread/INFO]: LeoMe55i10 lost connection: Disconnected
+[12:33:31] [Server thread/INFO]: LeoMe55i10 left the game
+[18:11:08] [Server thread/INFO]: Stopping the server
+[18:11:08] [Server thread/INFO]: Stopping server
+[18:11:08] [Server thread/INFO]: Saving players
+[18:11:08] [Server thread/INFO]: Saving worlds
+[18:11:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:08] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:08] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:11:08] [Server thread/INFO]: Saving usercache.json
+[18:11:08] [Server thread/INFO]: Flushing Chunk IO
+[18:11:09] [Server thread/INFO]: Closing Thread Pool
+[18:11:09] [Server thread/INFO]: Closing Server
